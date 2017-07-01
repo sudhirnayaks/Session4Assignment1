@@ -25,3 +25,8 @@ public class Assignment1{
     	 p.method2();
      }
 }
+
+//Object calls method 2 of Parent class and then method 1 of Parent class to print the following output
+//Prints :
+//Parent's method2()
+//Parent's method1()
